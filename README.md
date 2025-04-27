@@ -42,5 +42,5 @@ Uma coleção de meus 10 sites desenvolvidos com **Bootstrap 5** para mostrar mi
 
 ## 💼 Habilidades em destaque:
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,twitter)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
 
