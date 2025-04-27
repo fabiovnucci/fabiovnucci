@@ -1,48 +1,46 @@
-<h1 align="center">Olá! Eu sou o Fábio Nucci 👋</h1>
+# Olá, eu sou o **Fábio V. Nucci** 👨‍💻
 
-<p align="center">
-Desenvolvedor Front-End focado em criação de sites modernos e responsivos.
-</p>
-
----
-
-## 🚀 Tecnologias que domino
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-</div>
+  
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiovn/)  
+[![GitHub Badge](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabiovnucci)
 
 ---
 
-## 📈 Atualmente estou
+## 💻 Sobre mim
 
-- 📚 Aprimorando minhas habilidades Front-End
-- 🔥 Praticando HTML, CSS e Bootstrap 5
-- 💼 Buscando novas oportunidades de desenvolvimento
+🚀 Desenvolvedor Front-End apaixonado por criar interfaces incríveis e funcionais. Especialista em **HTML5**, **CSS3**, **JavaScript** e **Bootstrap 5**, estou sempre aprendendo e explorando novas tecnologias. Atualmente, estou me aprofundando em  Javascript e buscando uma posição como **Desenvolvedor Front-End Remoto ou na cidade de São José do Rio Preto - SP**.
 
----
-
-## 📫 Vamos nos conectar!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/fabiovn/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-</div>
+🔧 **Minhas tecnologias principais**:
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 Projetos Destacados
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiovnucci&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovnucci&layout=compact&theme=tokyonight" alt="Top Langs"/>
-</div>
+### 🚗 **[Meus 10 Projetos com Bootstrap 5](https://github.com/fabiovnucci/Meus-10-Projetos-com-Bootstrap-5)**
+Uma coleção de meus 10 sites desenvolvidos com **Bootstrap 5** para mostrar minhas habilidades de design responsivo e layout moderno.
 
 ---
 
-<div align="center">
-  🚀 Obrigado pela visita! 🚀
-</div>
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiovnucci&show_icons=true&theme=radical&hide_title=true)
+
+---
+
+## 📬 Entrar em Contato
+
+📩 **E-mail:** fabiosjrp@hotmail.com 
+🔗 **LinkedIn:** [fabiovn](https://www.linkedin.com/in/fabiovn/)
+
+---
+
+## 💼 Habilidades em destaque:
+
+[![Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,react,twitter)](https://skillicons.dev)
+
