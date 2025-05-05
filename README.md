@@ -1,50 +1,22 @@
+# 💻 Fabio V. Nucci - Front-End Developer
 
-# Olá, eu sou o **Fábio V. Nucci** 👨‍💻
+<div align="center">
+  <a href="https://github.com/fabiovnucci">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiovnucci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&bg_color=30,0d1117,161b22"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovnucci&layout=compact&langs_count=7&theme=dracula&border_radius=10&bg_color=30,161b22,0d1117"/>
+  </a>
+</div>
 
-  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiovn/)  
-[![GitHub Badge](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabiovnucci)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiosjrp/)
+## 🛠 Tech Stack
+<div style="display: inline_block">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+</div>
 
-
----
-
-## 💻 Sobre mim
-
-🚀 Desenvolvedor Front-End apaixonado por criar interfaces incríveis e funcionais. Especialista em **HTML5**, **CSS3**, **JavaScript** e **Bootstrap 5**, estou sempre aprendendo e explorando novas tecnologias. Atualmente, estou me aprofundando em  Javascript e buscando uma posição como **Desenvolvedor Front-End Remoto ou na cidade de São José do Rio Preto - SP**.
-
-🔧 **Minhas tecnologias principais**:
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 🏆 Projetos Destacados
-
-### 🚗 **[Meus 10 Projetos com Bootstrap 5](https://github.com/fabiovnucci/Meus-10-Projetos-com-Bootstrap-5)**
-Uma coleção de meus 10 sites desenvolvidos com **Bootstrap 5** para mostrar minhas habilidades de design responsivo e layout moderno.
-
----
-
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiovnucci&show_icons=true&theme=radical&hide_title=true)
-![Seu Status](https://github-readme-stats.vercel.app/api?username=fabiovnucci&show_icons=true&theme=vue)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovnucci&layout=compact)
----
-
-## 📬 Entrar em Contato
-
-📩 **E-mail:** fabiosjrp@hotmail.com 
-🔗 **LinkedIn:** [fabiovn](https://www.linkedin.com/in/fabiovn/)
-
----
-
-## 💼 Habilidades em destaque:
-
-[![Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
-
+## 🌟 Projetos Destacados
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiovnucci&repo=SEU_REPO_1&theme=dracula&border_radius=10)](https://github.com/fabiovnucci/SEU_REPO_1)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiovnucci&repo=SEU_REPO_2&theme=dracula&border_radius=10)](https://github.com/fabiovnucci/SEU_REPO_2)
