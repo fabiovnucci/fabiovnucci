@@ -1,3 +1,10 @@
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [Canva](https://www.canva.com/) (template "GitHub Profile")
+- [Snappify](https://snappify.com/) para animações
+
+
+
+
 # Olá, eu sou o **Fábio V. Nucci** 👨‍💻
 
   
