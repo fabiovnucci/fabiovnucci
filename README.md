@@ -1,22 +1,67 @@
-# 💻 Fabio V. Nucci - Front-End Developer
+<h1 align="center">Olá, eu sou o Fabio Vnucci 👋</h1>
 
-<div align="center">
-  <a href="https://github.com/fabiovnucci">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiovnucci&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&border_radius=10&bg_color=30,0d1117,161b22"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovnucci&layout=compact&langs_count=7&theme=dracula&border_radius=10&bg_color=30,161b22,0d1117"/>
-  </a>
-</div>
+<p align="center">
+  <strong>Desenvolvedor Front-End • Apaixonado por tecnologia • Criador de soluções web</strong>
+</p>
 
-## 🛠 Tech Stack
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-</div>
+---
 
-## 🌟 Projetos Destacados
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiovnucci&repo=SEU_REPO_1&theme=dracula&border_radius=10)](https://github.com/fabiovnucci/SEU_REPO_1)
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=fabiovnucci&repo=SEU_REPO_2&theme=dracula&border_radius=10)](https://github.com/fabiovnucci/SEU_REPO_2)
+### 🚀 Sobre mim
+
+- 💻 Desenvolvedor Front-End com foco em **HTML5, CSS3, Bootstrap 5, Tailwind CSS e JavaScript**  
+- 👨‍🏫 Criador de conteúdos e projetos interativos para ensinar **Front-End**  
+- 🚀 Atualmente desenvolvendo **projetos com foco visual e responsivo**  
+- 🎯 Em busca de oportunidades em São José Do Rio Preto - SP e oportunidades **remotas**, colaboração em novos projetos e capacitação caso a empresa ofereça
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5C0AE7?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiovnucci&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovnucci&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 💼 Projetos em Destaque
+
+| Projeto | Descrição | Link |
+|--------|-----------|------|
+| 🔧 **Meus 10 Projetos com Bootstrap 5** | Página principal com links para 10 projetos visuais feitos com Bootstrap 5 | [🔗 Acessar](https://fabiovnucci.github.io/Meus-10-Projetos-com-Bootstrap-5) |
+
+---
+
+### 📬 Contato
+
+- 📧 Email: [fabiosjrp@hotmail.com](mailto:fabiosjrp@hotmail.com)
+- 💼 LinkedIn: [linkedin.com/in/fabiovnucci](https://linkedin.com/in/fabiovnucci)
+- 🌐 Portfólio (https://github.com/fabiovnucci)
+
+---
+
+### 🙌 Vamos nos conectar!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/fabiovnucci"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:fabiovnucci@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/fabiovnucci"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  💡 “O sucesso é a soma de pequenos esforços repetidos todos os dias.” – Robert Collier
+</p>
