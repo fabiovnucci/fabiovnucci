@@ -1,6 +1,3 @@
-![Seu Status](https://github-readme-stats.vercel.app/api?username=fabiovnucci&show_icons=true&theme=vue)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovnucci&layout=compact)
-
 
 # Olá, eu sou o **Fábio V. Nucci** 👨‍💻
 
@@ -36,7 +33,8 @@ Uma coleção de meus 10 sites desenvolvidos com **Bootstrap 5** para mostrar mi
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=fabiovnucci&show_icons=true&theme=radical&hide_title=true)
-
+![Seu Status](https://github-readme-stats.vercel.app/api?username=fabiovnucci&show_icons=true&theme=vue)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovnucci&layout=compact)
 ---
 
 ## 📬 Entrar em Contato
