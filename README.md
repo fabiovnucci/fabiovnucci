@@ -1,8 +1,5 @@
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- [Canva](https://www.canva.com/) (template "GitHub Profile")
-- [Snappify](https://snappify.com/) para animações
-
-
+![Seu Status](https://github-readme-stats.vercel.app/api?username=fabiovnucci&show_icons=true&theme=vue)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovnucci&layout=compact)
 
 
 # Olá, eu sou o **Fábio V. Nucci** 👨‍💻
