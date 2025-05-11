@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Fabio Vnucci 👋</h1>
+<h1 align="center">Olá, eu sou o Fábio Vergilio Nucci 👋</h1>
 
 <p align="center">
   <strong>Desenvolvedor Front-End • Apaixonado por tecnologia • Criador de soluções web</strong>
