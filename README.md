@@ -44,21 +44,12 @@
 
 ---
 
-### 📬 Contato
+### 🙌 Vamos nos conectar!
 
 - 📧 Email: [fabiosjrp@hotmail.com](mailto:fabiosjrp@hotmail.com)
 - 💼 LinkedIn: [linkedin.com/in/fabiovn](https://linkedin.com/in/fabiovn)
-- 🌐 Portfólio (https://github.com/fabiovnucci)
+- 🌐 Portfólio [https://github.com/fabiovnucci](https://github.com/fabiovnucci)
 
----
-
-### 🙌 Vamos nos conectar!
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/fabiovnucci"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
- 
-  <a href="https://github.com/fabiovnucci"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
 
 ---
 
