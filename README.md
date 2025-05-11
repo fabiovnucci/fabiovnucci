@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mim
 
-- 💻 Desenvolvedor Front-End com foco em **HTML5, CSS3, Bootstrap 5, Tailwind CSS e JavaScript**  
+- 💻 Desenvolvedor Front-End com foco em **HTML5, CSS3, Bootstrap 5 e JavaScript**  
 - 👨‍🏫 Criador de conteúdos e projetos interativos para ensinar **Front-End**  
 - 🚀 Atualmente desenvolvendo **projetos com foco visual e responsivo**  
 - 🎯 Em busca de oportunidades em São José Do Rio Preto - SP e oportunidades **remotas**, colaboração em novos projetos e capacitação caso a empresa ofereça
