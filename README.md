@@ -47,7 +47,7 @@
 ### 📬 Contato
 
 - 📧 Email: [fabiosjrp@hotmail.com](mailto:fabiosjrp@hotmail.com)
-- 💼 LinkedIn: [linkedin.com/in/fabiovnucci](https://linkedin.com/in/fabiovnucci)
+- 💼 LinkedIn: [linkedin.com/in/fabiovn](https://linkedin.com/in/fabiovn)
 - 🌐 Portfólio (https://github.com/fabiovnucci)
 
 ---
