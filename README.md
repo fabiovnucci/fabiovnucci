@@ -18,14 +18,12 @@ const fabio = {
   cargo: "Desenvolvedor Front-End",
   localização: "São José do Rio Preto - SP",
   modalidade: ["Presencial", "Remoto"],
-  foco: ["Projetos visuais", "Responsividade", "UI/UX"],
   status: "Aberto a oportunidades 🚀"
 };
 ```
 
 - 💻 **Desenvolvedor Front-End** especializado em criar interfaces modernas e responsivas
 - 👨‍🏫 **Criador de conteúdos** educativos para comunidade Front-End
-- 🚀 **Focado em projetos visuais** com excelente experiência do usuário
 - 🎯 **Disponível** para oportunidades em São José do Rio Preto-SP e trabalho remoto
 - 📚 **Sempre aprendendo** e compartilhando conhecimento
 
@@ -33,10 +31,11 @@ const fabio = {
 
 ## 🛠️ **Tecnologias & Ferramentas**
 
-### **Frontend Development**
+### **Frontend Development Web Mobile**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### **Frameworks & Libraries**
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5C0AE7?style=for-the-badge&logo=bootstrap&logoColor=white)
