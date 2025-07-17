@@ -22,7 +22,7 @@ const fabio = {
 };
 ```
 
-- 💻 **Desenvolvedor Front-End** especializado em criar interfaces modernas e responsivas
+- 💻 **Front end and mobile web development** especializado em criar interfaces modernas e responsivas
 - 👨‍🏫 **Criador de conteúdos** educativos para comunidade Front-End
 - 🎯 **Disponível** para oportunidades em São José do Rio Preto-SP e trabalho remoto
 - 📚 **Sempre aprendendo** e compartilhando conhecimento
