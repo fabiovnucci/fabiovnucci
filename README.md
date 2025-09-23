@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Fabio Vergilio Nucci
 
 💻 **Candidato a Desenvolvedor Front-End**  
-🌱 Atualmente estudando e praticando **HTML, CSS, JavaScript e Bootstrap 5**  
+🌱 Atualmente estudando e praticando **HTML, CSS, JavaScript, Bootstrap 5, entre outras.....**  
 🚀 Buscando a primeira oportunidade na área de tecnologia  
 
 ---
@@ -17,11 +17,7 @@
 
 ---
 
-## 📌 Projetos em Destaque
 
-🔹 [**Projeto 1**](#) – Breve descrição do que faz, tecnologias usadas  
-🔹 [**Projeto 2**](#) – Breve descrição do que faz, tecnologias usadas  
-🔹 [**Projeto 3**](#) – Breve descrição do que faz, tecnologias usadas  
 
 *(Você pode fixar esses projetos na aba de repositórios do GitHub para aparecerem direto no perfil.)*
 
@@ -38,10 +34,9 @@
 
 ## 🌎 Onde me encontrar
 
-📷 [Instagram](https://instagram.com/SEU_USER_AQUI)  
-💼 [LinkedIn](https://linkedin.com/in/SEU_USER_AQUI)  
-✉️ Email: **SEU_EMAIL_AQUI**
+📷 [Instagram](https://instagram.com/fabiovnucci)  
+💼 [LinkedIn](https://linkedin.com/in/fabiovnucci)  
+
 
 ---
 
-⭐️ *Se curtiu algum projeto, não esqueça de deixar uma estrela!*
