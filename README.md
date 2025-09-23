@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Fabio Virgilio Nucci
+# 👋 Olá, eu sou o Fabio Vergilio Nucci
 
 💻 **Candidato a Desenvolvedor Front-End**  
 🌱 Atualmente estudando e praticando **HTML, CSS, JavaScript e Bootstrap 5**  
