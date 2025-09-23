@@ -35,7 +35,7 @@
 ## 🌎 Onde me encontrar
 
 📷 [Instagram](https://instagram.com/fabiovnucci)  
-💼 [LinkedIn](https://linkedin.com/in/fabiovnucci)  
+💼 [LinkedIn](https://linkedin.com/in/fabiovn)  
 
 
 ---
