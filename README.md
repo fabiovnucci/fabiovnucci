@@ -1,8 +1,8 @@
 # 👋 Olá, eu sou o Fabio Vergilio Nucci
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fabiovnucci&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovnucci&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" height="170" alt="Linguagens mais usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiovnucci&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiovnucci&layout=compact&langs_count=7&theme=tokyonight" alt="Linguagens mais usadas" />
 </div>
 
 ---
