@@ -10,7 +10,7 @@
 Sou um entusiasta de tecnologia focado em criar interfaces modernas, funcionais e acessíveis. Atualmente, dedico meus dias a dominar o ecossistema JavaScript e aprimorar a experiência do usuário no front-end.
 
 * 🚀 **Buscando minha primeira oportunidade** oficial como Dev Jr / Estagiário.
-* 🎨 **Criador do [Tema Brasil Dev](https://marketplace.visualstudio.com/items?itemName=fabio-vergilio-nucci.tema-brasil-dev)** – Uma extensão para VS Code que já ajuda mais de **406  desenvolvedores**.
+* 🎨 **Criador do [Tema Brasil Dev](https://marketplace.visualstudio.com/items?itemName=fabio-vergilio-nucci.tema-brasil-dev)** – Uma extensão para VS Code que já ajuda mais de **497  desenvolvedores**.
 * 🌱 Estudando constantemente: **React.js e TypeScript**.
 
 ---
